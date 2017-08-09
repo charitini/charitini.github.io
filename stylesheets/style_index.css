@@ -445,8 +445,6 @@ body, html {
 
 #main-content {
   text-align: center;
-  height: 100%;
-  background: no-repeat center center;
   /* The image used */
   background-image: url(../images/charitini.jpg) ;
 
