@@ -1,0 +1,8 @@
+/* Css mods to the original template */
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+.greeting {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-family: "Dancing Script","Source Sans Pro"
+}
