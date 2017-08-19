@@ -1,10 +1,11 @@
 
-# Welcome to the repository of my personal website!
+## Welcome to the repository of my personal website!
 
-Visit my website [here](https://charitini.github.io/)
+Visit my website [here](https://charitini.github.io/).  
 You can find my resume, syllabus, photos and experience from my exciting work!
 
-Credits:
+---
+#### Credits:
   
   Main template:
     Story by HTML5 UP
